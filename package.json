@@ -1,0 +1,15 @@
+{
+  "name": "nodejsproject",
+  "version": "1.0.0",
+  "description": "for doing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "tee a w s",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "jest": "^29.4.1"  
+  }
+}
